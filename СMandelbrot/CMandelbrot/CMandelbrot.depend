@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558344434 source:c:\andrianovlabs\bdz\Ñmandelbrot\cmandelbrot\main.c
+	<stdio.h>
+	<sys/time.h>
+
